@@ -1,10 +1,6 @@
-# jekyll-dark
-A Jekyll dark theme for my website
+# Jekyll Dark
+A Jekyll dark theme for my website.
 
-
-## Theme Usage and Local Testing
-
-This repository contains a custom Jekyll theme.
 
 ### Prerequisites
 
@@ -15,8 +11,8 @@ This repository contains a custom Jekyll theme.
 
 1.  **Clone the repository (if you haven't already):**
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/videlanicolas/jekyll-dark.git
+    cd jekyll-dark
     ```
 2.  **Install dependencies:**
     Navigate to the root directory of the theme and run:
