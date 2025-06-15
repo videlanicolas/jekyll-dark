@@ -29,13 +29,6 @@ body {
     flex-grow: 1; // Ensures container pushes footer down
 }
 
-// Media query for larger screens
-@media (min-width: 768px) {
-    .container {
-        max-width: 1200px;
-    }
-}
-
 // Links
 a {
     color: #80cbc4; // A pleasant teal for links
