@@ -1,4 +1,5 @@
 ---
+layout: project
 title: "Sample Project Alpha"
 date: 2023-10-26
 status: "In Progress"

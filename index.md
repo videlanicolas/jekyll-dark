@@ -7,10 +7,8 @@ title: Home
 
 Welcome to my personal page!
 
-This is a simple, minimalistic, dark-themed Jekyll site. I'm using this to share my thoughts, projects, and experiences.
+This is a simple, minimalistic, dark-themed Jekyll site.
 
-Feel free to explore the **Blog** section for articles and the **Projects** section to see what I've been working on.
-
-You can find more about my professional background on [LinkedIn](https://www.linkedin.com/in/{{ site.linkedin_username }}) and my code repositories on [GitHub](https://github.com/{{ site.github_username }}).
+It has a **Blog** section for articles and a **Projects** section to see what you are working on.
 
 *(Social media links can be configured in _config.yml)*
