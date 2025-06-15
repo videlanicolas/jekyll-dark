@@ -161,3 +161,17 @@ ul {
         }
     }
 }
+
+// Specific styles for the About page content
+body.page-about .container h1,
+body.page-about .container h2,
+body.page-about .container h3,
+body.page-about .container h4,
+body.page-about .container h5,
+body.page-about .container h6 {
+    text-align: center;
+}
+
+body.page-about .container p {
+    text-align: justify;
+}
