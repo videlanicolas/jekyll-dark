@@ -116,6 +116,14 @@ footer {
 
 .post-content, .project-content {
     margin-top: 20px;
+
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 100%;
+        height: auto;
+    }
 }
 
 // Code blocks (basic styling, can be enhanced with syntax highlighting)
