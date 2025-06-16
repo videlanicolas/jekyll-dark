@@ -8,7 +8,7 @@
     <!-- Basic dark theme setup -->
 
 </head>
-<body>
+<body class="page-{{ page.title | slugify }}">
     {% include header.html %}
     <main class="container">
         {{ content }}
